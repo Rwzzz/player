@@ -1,0 +1,5 @@
+<RCC>
+    <qresource prefix="/mp3">
+        <file>image/我怀念的.mp3</file>
+    </qresource>
+</RCC>
